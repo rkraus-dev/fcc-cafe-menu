@@ -24,7 +24,7 @@ Since this is a static website, no installation is required:
 2. Open the `index.html` file directly in your preferred web browser.
 
 ## 🖼 Preview
-
+![Camper Cafe Preview](assets/preview.png)
 
 ### Quick Links
 [Live Demo](https://rkaus.dev)
